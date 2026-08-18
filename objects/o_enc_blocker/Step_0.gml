@@ -1,8 +1,6 @@
 var _dir = image_angle - idealdir;
 var _angledifference = _dir;
 
-// Hiii
-
 
 if (abs(_dir) > 180)
 {

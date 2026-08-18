@@ -1,4 +1,3 @@
-// Inherit the parent event
-event_inherited();
-
 o_enc_soul.color = currentcolor
+
+turn_started = true;
