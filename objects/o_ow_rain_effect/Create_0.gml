@@ -1,0 +1,14 @@
+rain_style = 1;
+rain_sprite[0] = spr_lw_rain_style_a;
+rain_sprite[1] = spr_lw_rain_style_b;
+rain_sprite[2] = spr_lw_rain_style_c;
+rain_sprite[2] = spr_lw_rain_style_d;
+rain_sprite[3] = spr_lw_rain_style_e;
+rain_sprite[4] = spr_lw_rain_style_f;
+rain_sprite[5] = spr_lw_rain_style_e_flip;
+xdir=-1
+xspeed = 1;
+yspeed = 2;
+speed_mul = 5;
+image_alpha=0
+depth=-2400
