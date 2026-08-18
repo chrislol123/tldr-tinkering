@@ -515,6 +515,7 @@
     {"id":{"name":"path_ex_dforest_dancers3","path":"paths/path_ex_dforest_dancers3/path_ex_dforest_dancers3.yy",},},
     {"id":{"name":"path_ex_newchange","path":"paths/path_ex_newchange/path_ex_newchange.yy",},},
     {"id":{"name":"path_ex_test_killer_car","path":"paths/path_ex_test_killer_car/path_ex_test_killer_car.yy",},},
+    {"id":{"name":"room_a1","path":"rooms/room_a1/room_a1.yy",},},
     {"id":{"name":"room_chapter_select","path":"rooms/room_chapter_select/room_chapter_select.yy",},},
     {"id":{"name":"room_ex_church","path":"rooms/room_ex_church/room_ex_church.yy",},},
     {"id":{"name":"room_ex_city","path":"rooms/room_ex_city/room_ex_city.yy",},},
@@ -1772,6 +1773,7 @@
     {"roomId":{"name":"room_logo","path":"rooms/room_logo/room_logo.yy",},},
     {"roomId":{"name":"room_lb_dark_lighting","path":"rooms/room_lb_dark_lighting/room_lb_dark_lighting.yy",},},
     {"roomId":{"name":"room_titys","path":"rooms/room_titys/room_titys.yy",},},
+    {"roomId":{"name":"room_a1","path":"rooms/room_a1/room_a1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
