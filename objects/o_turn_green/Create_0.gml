@@ -1,4 +1,4 @@
 // Inherit the parent event
 event_inherited();
 
-o_enc_soul.color = currentcolor
+currentcolor = SOUL_COLOR.RED;
