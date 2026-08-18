@@ -67,6 +67,9 @@ if color == SOUL_COLOR.RED {
 if color == SOUL_COLOR.GREEN {
     sprite_index = spr_soul;
     image_blend = c_green;
+	
+	if (!instance_exists(o_enc_blocker))
+		instance_create(o_enc_blocker, x, y, depth + 1)
     
 	if is_transitioning == false {
 

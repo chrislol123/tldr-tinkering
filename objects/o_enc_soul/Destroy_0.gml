@@ -6,3 +6,6 @@ instance_create(o_eff_soulappear, kris.x, char_y, depth-10)
 
 if instance_exists(o_enc_soul_aura)
     instance_destroy(o_enc_soul_aura)
+	
+if (instance_exists(o_enc_blocker))
+	instance_destroy(o_enc_blocker)
