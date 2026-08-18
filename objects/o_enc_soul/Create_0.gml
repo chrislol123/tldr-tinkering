@@ -21,7 +21,8 @@ is_transitioning = true;
 transition_mode = 0;
 
 enum SOUL_COLOR {
-    RED
+    RED,
+	GREEN,
 };
 color = SOUL_COLOR.RED;
 
