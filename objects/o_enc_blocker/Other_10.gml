@@ -1,0 +1,1 @@
+audio_play(snd_wing)

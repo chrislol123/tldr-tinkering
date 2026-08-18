@@ -80,15 +80,15 @@ if color == SOUL_COLOR.GREEN {
         var yy = 0
         
 		if InputCheck(INPUT_VERB.LEFT) 
-			var stupid0 = 0;
-			/// WHAT THE FUCK WHY DOES IT NEED SOMETHING HERE
-			// var stupid is to make it so GM doesn't complain, put soul code here later
+			idealdir = 180
 		else if InputCheck(INPUT_VERB.RIGHT) 
-			var stupid1 = 0;
+			idealdir = 0
 		if InputCheck(INPUT_VERB.UP) 
-			var stupid2 = 0;
+			idealdir = 90
 		else if InputCheck(INPUT_VERB.DOWN) 
-			var stupid3 = 0;
+			idealdir = 270
+			
+		o_enc_blocker.idealdir = idealdir;
         
         var xstep = .25 * sign(xx)
         for (var i = 0; i < abs(xx); i ++) { // horizontal collisions
