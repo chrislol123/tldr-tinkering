@@ -1,0 +1,2 @@
+
+nowcolor = c_black;
