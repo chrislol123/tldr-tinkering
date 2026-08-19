@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"snd_ui_move",
+  "%Name":"snd_bell",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -10,17 +10,17 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":0.023401361,
+  "duration":0.47165534,
   "exportDir":"",
-  "name":"snd_ui_move",
+  "name":"snd_bell",
   "parent":{
-    "name":"sounds",
-    "path":"folders/@Engine/sounds.yy",
+    "name":"Sounds",
+    "path":"folders/zzz Examples/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_ui_move.wav",
+  "soundFile":"snd_bell.ogg",
   "volume":1.0,
 }

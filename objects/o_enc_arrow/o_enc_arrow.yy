@@ -1,22 +1,21 @@
 {
   "$GMObject":"",
-  "%Name":"o_turn_green",
+  "%Name":"o_enc_arrow",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":12,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"o_enc_blocker","path":"objects/o_enc_blocker/o_enc_blocker.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"o_turn_green",
+  "name":"o_enc_arrow",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"tldr-engine",
+    "path":"tldr-engine.yyp",
   },
   "parentObjectId":{
-    "name":"o_turn",
-    "path":"objects/o_turn/o_turn.yy",
+    "name":"o_enc_bullet",
+    "path":"objects/o_enc_bullet/o_enc_bullet.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -35,7 +34,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_spear_arrow",
+    "path":"sprites/spr_spear_arrow/spr_spear_arrow.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
