@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"twlight_enc",
+  "%Name":"fancy_music_text",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"twlight_enc",
+  "name":"fancy_music_text",
   "parent":{
     "name":"encounters",
     "path":"folders/Scripts/encounters.yy",

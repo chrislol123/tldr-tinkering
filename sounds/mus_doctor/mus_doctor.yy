@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"mus_doctor",
   "parent":{
-    "name":"Music",
-    "path":"folders/Music.yy",
+    "name":"Homestuck",
+    "path":"folders/Music/Homestuck.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

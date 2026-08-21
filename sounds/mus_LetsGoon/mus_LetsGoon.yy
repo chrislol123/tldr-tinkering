@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"mus_LetsGoon",
   "parent":{
-    "name":"Music",
-    "path":"folders/Music.yy",
+    "name":"Mario?",
+    "path":"folders/Music/Mario?.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

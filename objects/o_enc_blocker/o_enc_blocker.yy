@@ -15,8 +15,8 @@
   "name":"o_enc_blocker",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"soul",
+    "path":"folders/Objects/encounters/soul.yy",
   },
   "parentObjectId":{
     "name":"o_block",

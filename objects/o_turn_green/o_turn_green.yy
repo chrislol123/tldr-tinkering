@@ -11,8 +11,8 @@
   "name":"o_turn_green",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"encounters",
+    "path":"folders/Objects/encounters.yy",
   },
   "parentObjectId":{
     "name":"o_turn",

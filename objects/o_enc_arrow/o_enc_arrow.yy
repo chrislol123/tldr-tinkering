@@ -10,8 +10,8 @@
   "name":"o_enc_arrow",
   "overriddenProperties":[],
   "parent":{
-    "name":"tldr-engine",
-    "path":"tldr-engine.yyp",
+    "name":"soul",
+    "path":"folders/Objects/encounters/soul.yy",
   },
   "parentObjectId":{
     "name":"o_enc_bullet",

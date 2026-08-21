@@ -6,6 +6,9 @@ function twlight_green_enc() : enc_set() constructor {
 		new twl_green(),
 	]
 
+	bgm_fancy = true; // New
+	bgm_fancytitle = "Doctor - George Buzinkai"
+
 	flavor = "* Enemies floated in!"
 	
 	bgm = mus_doctor;
