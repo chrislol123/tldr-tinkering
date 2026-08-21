@@ -983,6 +983,7 @@
     {"id":{"name":"mus_intro_legend","path":"sounds/mus_intro_legend/mus_intro_legend.yy",},},
     {"id":{"name":"mus_LetsGoon","path":"sounds/mus_LetsGoon/mus_LetsGoon.yy",},},
     {"id":{"name":"mus_menu","path":"sounds/mus_menu/mus_menu.yy",},},
+    {"id":{"name":"mus_moonshatter","path":"sounds/mus_moonshatter/mus_moonshatter.yy",},},
     {"id":{"name":"mus_story","path":"sounds/mus_story/mus_story.yy",},},
     {"id":{"name":"snd_attack","path":"sounds/snd_attack/snd_attack.yy",},},
     {"id":{"name":"snd_bell","path":"sounds/snd_bell/snd_bell.yy",},},

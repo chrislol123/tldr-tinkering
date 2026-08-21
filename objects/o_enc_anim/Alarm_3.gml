@@ -8,6 +8,9 @@ for (var i = 0; i < party_length(); ++i) {
 }
 
 enc_setup();
+
+
+
 var inst = instance_create(o_enc,,,,{
 	encounter_data: encounter_data, 
 	save_pos,
@@ -17,13 +20,14 @@ var inst = instance_create(o_enc,,,,{
 // do the initial flavor text
 inst.flavor = variable_callable_to_value(encounter_data.flavor);
 
+
 var __vs = encounter_data.enc_var_struct
 var __names = struct_get_names(__vs)
 for (var i = 0; i < array_length(__names); i ++) {
     variable_instance_set(inst, __names[i], struct_get(__vs, __names[i]))
 }
 
-fancy_music_text(encounter_data)
+
 
 if struct_exists(encounter_data, "bgm") && audio_exists(encounter_data.bgm) {
 	music_play(encounter_data.bgm, 1, true, encounter_data.bgm_gain, encounter_data.bgm_pitch)
