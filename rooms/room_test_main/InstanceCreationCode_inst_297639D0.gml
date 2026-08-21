@@ -9,7 +9,7 @@ execute_code = function() {
     
     if party_length() == 1 {
         cutscene_dialogue([
-            "* (Standing here, you realized something.)",
+            "* {font(8bit)}(Standing here, you realized something.)",
             "* (If you had any PARTY MEMBERS, you could've asked them to wait here.)",
             "* (Felt like useful information.)",
             "* (Not really...)"
