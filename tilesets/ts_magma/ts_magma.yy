@@ -8,7 +8,7 @@
     "TileSerialiseData":[],
   },
   "name":"ts_magma",
-  "out_columns":1,
+  "out_columns":3,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -34,5 +34,5 @@
   "tileWidth":20,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":2,
+  "tile_count":10,
 }
