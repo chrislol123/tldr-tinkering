@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"mus_patient",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":59.1151,
+  "exportDir":"",
+  "name":"mus_patient",
+  "parent":{
+    "name":"fwugradiation's (or Toby \"Stupid Ass Radiation\" Fox) Songs That Were Unused Or Not Used For UNDERTALE or DELTARUNE",
+    "path":"folders/Music/fwugradiation's (or Toby \"Stupid Ass Radiation\" Fox) Songs That Were Unused Or Not Used For UNDERTALE or DELTARUNE.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_patient.mp3",
+  "volume":1.0,
+}

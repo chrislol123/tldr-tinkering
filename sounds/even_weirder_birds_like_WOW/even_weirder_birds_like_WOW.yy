@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"even_weirder_birds_like_WOW",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":10.450046,
+  "exportDir":"",
+  "name":"even_weirder_birds_like_WOW",
+  "parent":{
+    "name":"squares",
+    "path":"folders/@Engine/objects/dev/squares.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"even_weirder_birds_like_WOW.ogg",
+  "volume":1.0,
+}
