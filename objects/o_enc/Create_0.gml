@@ -2,6 +2,10 @@
 	bcolor = merge_color(c_purple, c_black, 0.7)
 	bcolor = merge_color(bcolor, c_dkgray, 0.5)
 }
+
+alarm[0] = 30;
+
+moveoffset = false;
 { // generic (misc) 
 	buffer = 0
     waiting = false // the waiting variable for YOU
@@ -119,6 +123,10 @@
     inst_flavor = noone
     inst_dialogues = []
 }
+
+fancyalpha = 1
+
+offset = 0;
 
 encounter_data = {} // the information about the encounter: enemies, music, text and such
 

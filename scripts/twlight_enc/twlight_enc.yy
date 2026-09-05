@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"twlight_enc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"twlight_enc",
+  "parent":{
+    "name":"encounters",
+    "path":"folders/Scripts/encounters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

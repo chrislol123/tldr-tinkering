@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"fancy_music_text",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"fancy_music_text",
+  "parent":{
+    "name":"encounters",
+    "path":"folders/Scripts/encounters.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -110,7 +110,6 @@ function loc_font(font_id){
         return asset_get_index(loc(_loc_id))
     if struct_exists(global.loc_source_fallback, _loc_id)
         return asset_get_index(loc(_loc_id))
-    
 	return font_main
 }
 

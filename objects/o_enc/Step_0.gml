@@ -561,3 +561,8 @@ for (var i = 0; i < party_length(); i ++) {
 
 if buffer > 0
     buffer --
+	
+if (moveoffset) {
+	offset -= 3
+	fancyalpha -= 0.05
+}

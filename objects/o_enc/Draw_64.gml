@@ -339,6 +339,8 @@ else if battle_menu == BATTLE_MENU.PARTY_SELECTION {
     }
 }
 
+fancy_music_text(encounter_data)
+
 surface_reset_target()
 
 draw_surface_ext(surf, 0, 0, 1, 1, 0, c_white, 1)

@@ -17,6 +17,8 @@ function enc_set() constructor { // base
     }
     
     bgm = mus_battle
+	bgm_fancy = false; // New
+	bgm_fancytitle = "Rude Buster - Toby Fox"
     bgm_pitch = 1
     bgm_gain = 1
     

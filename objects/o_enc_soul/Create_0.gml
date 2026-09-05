@@ -9,6 +9,8 @@ image_xscale = 0.5;
 image_yscale = 0.5;
 image_blend = c_red;
 
+idealdir = 90;
+
 i_frames = 0;
 spd = 8
 real_spd = 1
@@ -21,7 +23,8 @@ is_transitioning = true;
 transition_mode = 0;
 
 enum SOUL_COLOR {
-    RED
+    RED,
+	GREEN,
 };
 color = SOUL_COLOR.RED;
 
