@@ -282,6 +282,7 @@
   "ForcedPrefabProjectReferences":[
     {"link":"io.gamemaker.gm_filter_hue-1.0.0","name":"io.gamemaker.gm_filter_hue-1.0.0","path":"io.gamemaker.gm_filter_hue-1.0.0.yyp",},
     {"link":"io.gamemaker.gm_filter_tintfilter-1.0.0","name":"io.gamemaker.gm_filter_tintfilter-1.0.0","path":"io.gamemaker.gm_filter_tintfilter-1.0.0.yyp",},
+    {"link":"io.gamemaker.gm_filter_gradient-1.0.0","name":"io.gamemaker.gm_filter_gradient-1.0.0","path":"io.gamemaker.gm_filter_gradient-1.0.0.yyp",},
   ],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"gamecontrollerdb.txt","CopyToMask":-1,"filePath":"datafiles","name":"gamecontrollerdb.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
@@ -321,6 +322,7 @@
   },
   "name":"tldr-engine",
   "resources":[
+    {"id":{"name":"fnt_areal","path":"fonts/fnt_areal/fnt_areal.yy",},},
     {"id":{"name":"font_8bit_ja","path":"fonts/font_8bit_ja/font_8bit_ja.yy",},},
     {"id":{"name":"font_8bit","path":"fonts/font_8bit/font_8bit.yy",},},
     {"id":{"name":"font_dotumche_ja","path":"fonts/font_dotumche_ja/font_dotumche_ja.yy",},},
@@ -533,6 +535,7 @@
     {"id":{"name":"o_ui_save","path":"objects/o_ui_save/o_ui_save.yy",},},
     {"id":{"name":"o_window","path":"objects/o_window/o_window.yy",},},
     {"id":{"name":"o_world","path":"objects/o_world/o_world.yy",},},
+    {"id":{"name":"Object201","path":"objects/Object201/Object201.yy",},},
     {"id":{"name":"path_ex_dforest_dancers1","path":"paths/path_ex_dforest_dancers1/path_ex_dforest_dancers1.yy",},},
     {"id":{"name":"path_ex_dforest_dancers2","path":"paths/path_ex_dforest_dancers2/path_ex_dforest_dancers2.yy",},},
     {"id":{"name":"path_ex_dforest_dancers3","path":"paths/path_ex_dforest_dancers3/path_ex_dforest_dancers3.yy",},},
@@ -552,6 +555,7 @@
     {"id":{"name":"room_lb_dark_lighting","path":"rooms/room_lb_dark_lighting/room_lb_dark_lighting.yy",},},
     {"id":{"name":"room_logo","path":"rooms/room_logo/room_logo.yy",},},
     {"id":{"name":"room_magmabridge","path":"rooms/room_magmabridge/room_magmabridge.yy",},},
+    {"id":{"name":"room_magmacity_1","path":"rooms/room_magmacity_1/room_magmacity_1.yy",},},
     {"id":{"name":"room_premagma_1","path":"rooms/room_premagma_1/room_premagma_1.yy",},},
     {"id":{"name":"room_save_select","path":"rooms/room_save_select/room_save_select.yy",},},
     {"id":{"name":"room_shop","path":"rooms/room_shop/room_shop.yy",},},
@@ -1462,6 +1466,7 @@
     {"id":{"name":"spr_noise_static","path":"sprites/spr_noise_static/spr_noise_static.yy",},},
     {"id":{"name":"spr_noise_worley_dark","path":"sprites/spr_noise_worley_dark/spr_noise_worley_dark.yy",},},
     {"id":{"name":"spr_noise_worley","path":"sprites/spr_noise_worley/spr_noise_worley.yy",},},
+    {"id":{"name":"spr_outskirt_tree","path":"sprites/spr_outskirt_tree/spr_outskirt_tree.yy",},},
     {"id":{"name":"spr_ow_chest","path":"sprites/spr_ow_chest/spr_ow_chest.yy",},},
     {"id":{"name":"spr_ow_prophecy_heroes","path":"sprites/spr_ow_prophecy_heroes/spr_ow_prophecy_heroes.yy",},},
     {"id":{"name":"spr_ow_save","path":"sprites/spr_ow_save/spr_ow_save.yy",},},
@@ -1470,6 +1475,7 @@
     {"id":{"name":"spr_ow_shortcut_door","path":"sprites/spr_ow_shortcut_door/spr_ow_shortcut_door.yy",},},
     {"id":{"name":"spr_ow_sign","path":"sprites/spr_ow_sign/spr_ow_sign.yy",},},
     {"id":{"name":"spr_ow_test_couch","path":"sprites/spr_ow_test_couch/spr_ow_test_couch.yy",},},
+    {"id":{"name":"spr_ow_test_npc_1","path":"sprites/spr_ow_test_npc_1/spr_ow_test_npc_1.yy",},},
     {"id":{"name":"spr_ow_test_npc","path":"sprites/spr_ow_test_npc/spr_ow_test_npc.yy",},},
     {"id":{"name":"spr_ow_tile_battle","path":"sprites/spr_ow_tile_battle/spr_ow_tile_battle.yy",},},
     {"id":{"name":"spr_papcouch_0","path":"sprites/spr_papcouch_0/spr_papcouch_0.yy",},},
@@ -1828,6 +1834,7 @@
     {"roomId":{"name":"room_test_fountain","path":"rooms/room_test_fountain/room_test_fountain.yy",},},
     {"roomId":{"name":"room_premagma_1","path":"rooms/room_premagma_1/room_premagma_1.yy",},},
     {"roomId":{"name":"room_magmabridge","path":"rooms/room_magmabridge/room_magmabridge.yy",},},
+    {"roomId":{"name":"room_magmacity_1","path":"rooms/room_magmacity_1/room_magmacity_1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
