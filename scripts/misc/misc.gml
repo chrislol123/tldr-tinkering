@@ -108,7 +108,6 @@ function ui_dialoguebox_create(xx, yy, width, height, world = global.world){
 }
 
 /// @ignore
-/// @deprecated
 /// @desc ripped from deltarune code. don't use this.
 /// @param {real} alpha - The alpha transparency of the tiles (0 to 1).
 function draw_sprite_tiled_area(sprite, subimg, xx, yy, x1, y1, x2, y2, xscale, yscale, blend, alpha) {
@@ -149,7 +148,6 @@ function draw_sprite_tiled_area(sprite, subimg, xx, yy, x1, y1, x2, y2, xscale, 
     }
 }
 /// @ignore
-/// @deprecated
 /// @desc ripped from deltarune code. don't use this.
 function draw_sprite_part_parallax(sprite, image, xoff, yoff, alpha, xx = x, yy = y){
     var _mywidth = sprite_get_width(sprite)
@@ -171,7 +169,6 @@ function draw_sprite_part_parallax(sprite, image, xoff, yoff, alpha, xx = x, yy 
     }
 }
 /// @ignore
-/// @deprecated
 /// @desc ripped from deltarune code. don't use this.
 function draw_sprite_part_parallax_scale(sprite, image, xoff, yoff, alpha, scale, xx = x,yy = y, xmax = -1, ymax = -1){
     var _mywidth = sprite_get_width(sprite)
