@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"mus_LetsGoon",
+  "%Name":"mus_LetsGo",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -12,7 +12,7 @@
   "conversionMode":0,
   "duration":93.03617,
   "exportDir":"",
-  "name":"mus_LetsGoon",
+  "name":"mus_LetsGo",
   "parent":{
     "name":"Mario?",
     "path":"folders/Music/Mario?.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"mus_LetsGoon.mp3",
+  "soundFile":"mus_LetsGo.mp3",
   "volume":1.0,
 }

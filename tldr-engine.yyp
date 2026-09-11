@@ -990,7 +990,7 @@
     {"id":{"name":"mus_intro_ch5","path":"sounds/mus_intro_ch5/mus_intro_ch5.yy",},},
     {"id":{"name":"mus_intro_legend_neo","path":"sounds/mus_intro_legend_neo/mus_intro_legend_neo.yy",},},
     {"id":{"name":"mus_intro_legend","path":"sounds/mus_intro_legend/mus_intro_legend.yy",},},
-    {"id":{"name":"mus_LetsGoon","path":"sounds/mus_LetsGoon/mus_LetsGoon.yy",},},
+    {"id":{"name":"mus_LetsGo","path":"sounds/mus_LetsGo/mus_LetsGo.yy",},},
     {"id":{"name":"mus_menu","path":"sounds/mus_menu/mus_menu.yy",},},
     {"id":{"name":"mus_moonsetter_pianoonly_recreation","path":"sounds/mus_moonsetter_pianoonly_recreation/mus_moonsetter_pianoonly_recreation.yy",},},
     {"id":{"name":"mus_moonsetter","path":"sounds/mus_moonsetter/mus_moonsetter.yy",},},
