@@ -15,10 +15,3 @@ ii = 0
 fading = false
 perfect = false
 enemies_hp = []
-
-width = 6;
-height = 114 / max(3, party_length());
-
-image_xscale = width/2;
-image_yscale = height/2;
-
